@@ -1,37 +1,8 @@
-# intro-to-authentication-challenge
+# React-Rails
 
-## Getting Started
+Up until this point, we've been using create-react-app to build our applications, and we've been using a separate Rails applications to explore Rails and APIs.  Have you wondered if Rails, as full featured as it is, could be the platform for the API and the React app together?  If so, it was a good question to ask, and as you may have guessed, Rails can also serve right from normal old erb pages.  Not only can it do so, but the solution is very elegant, and using Rails in this way allows us as developers to build larger and more interesting applications in an organized way.
 
-### Clone the Rails API
+Let's explore how Rails and React are integrated by constructing the simplest possible Rails app, and the simplest possible React component and getting them to work together.
 
-We have created a rails backend app with Devise authentication already hooked up. We will go though all the steps of setting up a rails app with Devise later.
-
-For now, go to this repo:
-
-<a href="https://github.com/2018-Delta/example-auth-backend" target="_blank">example-auth-backend</a>
-
-Clone the repo and start the app. Remember all the steps for setting up a rails app!
-
-### Clone the React App
-
-We have also created the beginnings of a React front end with a registration page. It is already set to work with the rails api.
-
-Go to the frontend repo <a href="https://github.com/2018-Delta/example-auth-frontend" target="_blank">example-auth-frontend</a>
-
-Clone the repo and start the app. Remember all the steps for setting up a React app!
-
-### Get Aquainted
-
-Take a few moments to look through the React app and the register page. Check to see if you can follow the path of authentication
-
-
-### Challenges
-
-- create a public page with content
-- create a protected page with content
-- add a Login page with Login functionality
-- add a header with a logout button
-
-### Stretch Challenges
-- edit the header to show a logout button when user is logged in and a log in button when user is guest
-- create a dashboard that shows all information for the logged in user
+## React-Rails Docs
+Please have a read of the [docs for the react-rails project](https://github.com/reactjs/react-rails) first to see what we're going to do, and all of the advanced features of the gem.
