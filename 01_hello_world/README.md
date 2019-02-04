@@ -77,3 +77,7 @@ cat app/views/pages/index.html.erb
 ```bash
 $ rails s
 ```
+
+## What's Next?
+
+[How about Building a Single Page App using React in Rails](https://github.com/LEARNAcademy/react-rails/tree/master/02_single_page_app)
