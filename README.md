@@ -6,3 +6,10 @@ Let's explore how Rails and React are integrated by constructing the simplest po
 
 ## React-Rails Docs
 Please have a read of the [docs for the react-rails project](https://github.com/reactjs/react-rails) first to see what we're going to do, and all of the advanced features of the gem.
+
+
+## Exercises
+The material in this repo is intended to be run as a group exercise in the LEARN Academy Class
+
+1. [React and Rails Hello World App](https://github.com/LEARNAcademy/react-rails/tree/master/01_hello_world)
+2. [Building a Single Page React App in Rails](https://github.com/LEARNAcademy/react-rails/tree/master/02_single_page_app)
